@@ -42459,7 +42459,7 @@ A.a5i.prototype={
 $1(a){return B.Kl.nV(a)},
 $S:41}
 A.a5j.prototype={
-$0(){this.a.nw("assets/images/Dileepsnair_Resume.pdf")},
+$0(){var a=document.createElement("a");a.href="assets/images/Dileepsnair_Resume.pdf";a.download="Dileepsnair_Resume.pdf";document.body.appendChild(a);a.click();document.body.removeChild(a)},
 $S:0}
 A.a5k.prototype={
 $0(){return this.a.nw("https://www.linkedin.com/in/dileep-s-nair-389b463a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blb%2BeK5WEQYCas3fMfGcm2Q%3D%3D")},
@@ -42504,7 +42504,7 @@ A.Ib.prototype={
 O(a){var s=this,r=null,q=A.bu(a,r,t.w).w.a.a<800,p=q?24:48,o=A.uJ(A.cr("WHO AM I?",r,r,r,A.d1(r,r,B.i,r,r,r,r,r,r,r,r,q?36:48,r,r,B.au,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.a_2()),n=t.D
 return A.cu(r,A.hQ(A.b([o,B.dV,q?A.hQ(A.b([s.LF(),B.i8,s.LG()],n),B.a3,B.af,B.aq):A.qi(A.b([A.auv(s.LF()),B.Ti,A.auv(s.LG())],n),B.a3,B.af,B.aq)],n),B.a3,B.af,B.aq),B.r,r,r,r,r,r,new A.aM(p,p,p,p),r,r,r)},
 LF(){var s=null
-return A.hQ(A.b([A.cr("I'm a passionate Flutter Developer with 6 months of experience in creating beautiful, functional, and user-friendly applications.",s,s,s,A.d1(s,s,B.em,s,s,s,s,s,s,s,s,18,s,s,s,s,1.6,!0,s,s,s,s,s,s,s,s),s,s),B.li,A.cr("I specialize in modern web technologies and love bringing ideas to life through clean code and elegant design. My goal is to build experiences that make people's lives easier.",s,s,s,A.d1(s,s,B.em,s,s,s,s,s,s,s,s,18,s,s,s,s,1.6,!0,s,s,s,s,s,s,s,s),s,s),B.i8],t.D),B.c2,B.af,B.aq)},
+return A.hQ(A.b([A.cr("I'm a passionate Flutter Developer with 1 year of experience in creating beautiful, functional, and user-friendly applications.",s,s,s,A.d1(s,s,B.em,s,s,s,s,s,s,s,s,18,s,s,s,s,1.6,!0,s,s,s,s,s,s,s,s),s,s),B.li,A.cr("I specialize in modern web technologies and love bringing ideas to life through clean code and elegant design. My goal is to build experiences that make people's lives easier.",s,s,s,A.d1(s,s,B.em,s,s,s,s,s,s,s,s,18,s,s,s,s,1.6,!0,s,s,s,s,s,s,s,s),s,s),B.i8],t.D),B.c2,B.af,B.aq)},
 LG(){var s=null,r=A.ca(16),q=B.d.av(127.5),p=t.sq
 return A.kc(B.bC,A.b([A.cu(s,s,B.r,s,new A.c4(s,B.HT,s,r,A.b([new A.cO(5,B.bs,A.at(q,B.l.C()>>>16&255,B.l.C()>>>8&255,B.l.C()&255),B.f,20)],p),s,B.X),s,400,s,s,s,s,s),A.ui(-20,A.cu(s,B.Da,B.r,s,new A.c4(s,s,s,A.ca(16),A.b([new A.cO(0,B.bs,A.at(q,B.at.C()>>>16&255,B.at.C()>>>8&255,B.at.C()&255),B.f,20)],p),B.c8,B.X),s,120,s,s,s,s,120),s,s,s,-20,s,s)],t.D),B.O,B.cy)}}
 A.a_2.prototype={
@@ -42576,12 +42576,12 @@ q=q.f
 return new A.tu(p*r,B.bT,A.cu(s,s,B.r,s,new A.c4(s,s,s,A.ca(2),s,new A.fS(B.bT,B.cF,B.aL,q,s,s),B.X),s,s,s,s,s,s,s),s)},
 $S:375}
 A.MX.prototype={
-O(a){var s=null,r=A.bu(a,s,t.w).w.a.a<800,q=t.s,p=t.c,o=t.N,n=t.K,m=A.b([A.ar(["title","Flipkart Clone","description","A clone of Flipkart using Flutter with responsive design and animations.","image","assets/images/flipkart.png","tags",A.b(["Dart","Flutter","Widgets"],q),"colors",A.b([B.n8,B.Ha],p)],o,n),A.ar(["title","Portfolio Website","description","My personal portfolio website built with Flutter","image","assets/images/img.png","tags",A.b(["Flutter","Dart","Github"],q),"colors",A.b([B.j3,B.at],p)],o,n)],t.Mq)
+O(a){var s=null,r=A.bu(a,s,t.w).w.a.a<800,q=t.s,p=t.c,o=t.N,n=t.K,m=A.b([A.ar(["title","ASSETVAULT APP","description","Asset Vault is a mobile-based Asset Management System (AMS) designed to help organizations track, verify, transfer, maintain, and manage physical assets using QR code technology. Features real-time asset identification, physical audit with continuous QR scanning, role-based access, and REST API integration.","image","","tags",A.b(["Flutter","Dart","REST APIs","QR Scanning"],q),"colors",A.b([B.n8,B.Ha],p)],o,n),A.ar(["title","FILE TRACKING SYSTEM APP","description","A mobile application designed to digitally track and manage the movement and status of physical files using QR codes, providing real-time visibility of file location, current holder, movement history, and basic offline retry handling.","image","","tags",A.b(["Flutter","Dart","REST APIs","QR Scanning"],q),"colors",A.b([B.j3,B.at],p)],o,n),A.ar(["title","MONETRAX APP","description","MoneTrax is a full-featured personal finance and expense tracking mobile app built with Flutter & Dart to help users track multi-account spending, set savings goals, and monitor spending with Riverpod and Dio.","image","","tags",A.b(["Flutter","Dart","REST APIs","Dio"],q),"colors",A.b([B.Os,B.kE],p)],o,n)],t.Mq)
 q=r?24:48
 p=A.uJ(A.cr("THE WORKS CLOSEST TO",s,s,s,A.d1(s,s,B.i,s,s,s,s,s,s,s,s,r?28:48,s,s,B.au,s,s,!0,s,s,s,s,s,s,s,s),B.bP,s),new A.abB())
 o=A.uJ(A.cr("MY HEART",s,s,s,A.d1(s,s,B.i,s,s,s,s,s,s,s,s,r?28:48,s,s,B.au,s,s,!0,s,s,s,s,s,s,s,s),B.bP,s),new A.abC())
 n=r?1:2
-return A.cu(s,A.hQ(A.b([p,o,B.dV,A.ayP(new A.OU(n,16,16,r?1.2:1.5),new A.abD(m),2,B.uP,!0)],t.D),B.a3,B.af,B.aq),B.r,s,s,s,s,s,new A.aM(q,q,q,q),s,s,s)}}
+return A.cu(s,A.hQ(A.b([p,o,B.dV,A.ayP(new A.OU(n,16,16,r?1.1:1.35),new A.abD(m),3,B.uP,!0)],t.D),B.a3,B.af,B.aq),B.r,s,s,s,s,s,new A.aM(q,q,q,q),s,s,s)}}
 A.abB.prototype={
 $1(a){return B.c8.nV(a)},
 $S:41}
@@ -42596,7 +42596,7 @@ A.q5.prototype={
 am(){return new A.UN()}}
 A.UN.prototype={
 O(a){var s,r,q,p,o=this,n=null,m=o.d,l=m?1.05:1,k=A.ca(16),j=A.b([new A.cO(2,B.bs,m?o.a.r[0].b4(0.3):A.at(B.d.av(76.5),B.l.C()>>>16&255,B.l.C()>>>8&255,B.l.C()&255),B.f,20)],t.sq),i=A.ca(16),h=o.a,g=h.e
-m=A.aM3(n,n,new A.rL(g,n,n))
+m=g&&g.length>0?A.aM3(n,n,new A.rL(g,n,n)):B.dV
 g=o.d?0.9:0
 s=h.r
 r=A.cr(h.c,n,n,n,B.Vz,n,n)
@@ -42605,7 +42605,7 @@ q=o.a.f
 p=A.Z(q).h("a_<1,jA>")
 q=A.X(new A.a_(q,new A.aoe(),p),p.h("an.E"))
 p=t.D
-return A.iQ(A.axw(A.cu(n,A.axR(i,A.kc(B.bC,A.b([new A.zb(m,B.df,n),A.au1(A.cu(n,A.hQ(A.b([r,B.zA,h,B.f6,A.Qc(B.d9,q,8,8),B.f6,A.qi(A.b([A.cu(n,B.Rn,B.r,n,new A.c4(A.at(51,B.i.C()>>>16&255,B.i.C()>>>8&255,B.i.C()&255),n,n,A.ca(8),n,n,B.X),n,n,n,B.nE,n,n,n),B.lh,A.cu(n,B.Ro,B.r,n,new A.c4(A.at(51,B.i.C()>>>16&255,B.i.C()>>>8&255,B.i.C()&255),n,n,A.ca(8),n,n,B.X),n,n,n,B.nE,n,n,n)],p),B.a3,B.af,B.aq)],p),B.c2,B.kA,B.aq),B.r,n,new A.c4(n,n,n,n,n,new A.fS(B.me,B.md,B.aL,s,n,n),B.X),n,n,n,B.IQ,n,n,n),B.a5,B.c5,g)],p),B.O,B.TD)),B.r,n,new A.c4(n,n,n,k,j,n,B.X),n,n,n,n,n,n,n),B.Z,l),B.ba,n,new A.aof(o),new A.aog(o),n)}}
+return A.iQ(A.axw(A.cu(n,A.axR(i,A.kc(B.bC,A.b([new A.zb(m,B.df,n),A.au1(A.cu(n,A.hQ(A.b([r,B.zA,h,B.f6,A.Qc(B.d9,q,8,8)],p),B.c2,B.kA,B.aq),B.r,n,new A.c4(n,n,n,n,n,new A.fS(B.me,B.md,B.aL,s,n,n),B.X),n,n,n,B.IQ,n,n,n),B.a5,B.c5,g)],p),B.O,B.TD)),B.r,n,new A.c4(n,n,n,k,j,n,B.X),n,n,n,n,n,n,n),B.Z,l),B.ba,n,new A.aof(o),new A.aog(o),n)}}
 A.aof.prototype={
 $1(a){var s=this.a
 return s.al(new A.aod(s))},
@@ -42628,15 +42628,7 @@ A.xU.prototype={
 am(){var s=$.aH()
 return new A.Re(new A.v7(B.ic,s),new A.v7(B.ic,s),new A.v7(B.ic,s))}}
 A.Re.prototype={
-l(){var s=this,r=s.d,q=r.T$=$.aH()
-r.P$=0
-r=s.e
-r.T$=q
-r.P$=0
-r=s.f
-r.T$=q
-r.P$=0
-s.aK()},
+l(){this.d.sq(B.ic);this.e.sq(B.ic);this.f.sq(B.ic);this.aK()},
 O(a){var s,r,q,p,o=null,n=A.bu(a,o,t.w).w.a.a<800,m=n?24:48,l=A.uJ(A.cr("LET'S HAVE A CHAT",o,o,o,A.d1(o,o,B.i,o,o,o,o,o,o,o,o,n?28:48,o,o,B.au,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.akk()),k=A.at(13,B.i.C()>>>16&255,B.i.C()>>>8&255,B.i.C()&255),j=A.ca(16),i=A.d1(o,o,B.cr,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),h=B.d.av(25.5),g=A.at(h,B.i.C()>>>16&255,B.i.C()>>>8&255,B.i.C()&255)
 i=A.avx(this.d,A.a64(o,new A.dV(4,A.ca(12),new A.aW(B.bh,1,B.u,-1)),o,o,o,o,o,o,!0,new A.dV(4,A.ca(12),new A.aW(B.bh,1,B.u,-1)),o,o,o,o,o,g,!0,o,o,o,o,new A.dV(4,A.ca(12),B.iP),o,o,o,o,o,o,o,o,i,"YOUR NAME",o,o,o,o,o,o,o,o,o,!0,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o),1,B.fa)
 g=A.d1(o,o,B.cr,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)
@@ -42649,12 +42641,12 @@ h=A.aJe(o,o,B.I,o,o,o,o,o,o,o,o,o,B.nC,B.I,new A.d9(A.ca(12),B.t),o,o,o,o,o)
 r=A.ca(12)
 q=A.cu(B.K,B.Z7,B.r,o,o,o,o,o,B.nC,o,o,o)
 p=t.D
-return A.cu(o,A.hQ(A.b([l,B.dV,A.cu(o,A.hQ(A.b([i,B.f6,g,B.f6,s,B.li,A.f3(new A.Kf(new A.akl(a),o,o,o,h,o,o,!1,o,!0,o,new A.zh(q,new A.c4(o,o,o,r,o,B.c8,B.X),o),o),o,1/0)],p),B.a3,B.af,B.aq),B.r,B.BP,new A.c4(k,o,o,j,o,o,B.X),o,o,o,B.nH,o,o,o)],p),B.a3,B.af,B.aq),B.r,o,o,o,o,o,new A.aM(m,m,m,m),o,o,o)}}
+return A.cu(o,A.hQ(A.b([l,B.dV,A.cu(o,A.hQ(A.b([i,B.f6,g,B.f6,s,B.li,A.f3(new A.Kf(new A.akl(this,a),o,o,o,h,o,o,!1,o,!0,o,new A.zh(q,new A.c4(o,o,o,r,o,B.c8,B.X),o),o),o,1/0)],p),B.a3,B.af,B.aq),B.r,B.BP,new A.c4(k,o,o,j,o,o,B.X),o,o,o,B.nH,o,o,o)],p),B.a3,B.af,B.aq),B.r,o,o,o,o,o,new A.aM(m,m,m,m),o,o,o)}}
 A.akk.prototype={
 $1(a){return B.c8.nV(a)},
 $S:41}
 A.akl.prototype={
-$0(){this.a.az(t.Pu).f.ZG(B.Tx)},
+$0(){this.a.l();this.b.az(t.Pu).f.ZG(B.Tx)},
 $S:0}
 A.KD.prototype={
 O(a){var s=null
@@ -91449,7 +91441,7 @@ B.i=new A.p(1,1,1,1,B.e)
 B.au=new A.hV(6)
 B.A4=new A.m(!0,B.i,null,null,null,null,24,B.au,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bP=new A.lL(2,"center")
-B.Z8=new A.j6("6\nMonths",null,B.A4,B.bP,null,null,null,null,null)
+B.Z8=new A.j6("1\nYear",null,B.A4,B.bP,null,null,null,null,null)
 B.Da=new A.mp(B.K,null,null,B.Z8,null)
 B.Db=new A.xz(null,null,null,null,null,null,null,null,null)
 B.dj=new A.rU(0,"none")
