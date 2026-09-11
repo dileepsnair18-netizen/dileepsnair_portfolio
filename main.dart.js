@@ -42468,7 +42468,7 @@ A.a5l.prototype={
 $0(){return this.a.nw("https://github.com/dileepsnair18-netizen")},
 $S:0}
 A.a5m.prototype={
-$0(){return this.a.nw("mailto:dileepsnairktm@gmail.com")},
+$0(){return window.open("https://mail.google.com/mail/?view=cm&fs=1&to=dileepsnairktm@gmail.com","_blank")},
 $S:0}
 A.pd.prototype={
 am(){return new A.SW()}}
